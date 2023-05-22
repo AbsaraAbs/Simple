@@ -16,5 +16,8 @@ public class Sample {
 		System.out.println("Selenium");
 		
 	}
-
+  public void name1() {
+	  System.out.println("java");
+	
+}
 }
