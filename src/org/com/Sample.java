@@ -12,5 +12,9 @@ public class Sample {
 		System.out.println(s1);
 		
 		}
+	public void test() {
+		System.out.println("Test");
+		
+	}
 
 }
