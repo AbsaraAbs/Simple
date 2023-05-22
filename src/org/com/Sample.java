@@ -12,5 +12,12 @@ public class Sample {
 		System.out.println(s1);
 		
 		}
-
+	public static void name() {
+		System.out.println("Selenium");
+		
+	}
+  public void name1() {
+	  System.out.println("java");
+	
+}
 }
